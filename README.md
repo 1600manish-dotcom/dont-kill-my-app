@@ -92,7 +92,8 @@ Y U say stock Android!?
 Add
 ```
 award: (int between 1 and 5)
-```
+```5
+
 variable to the vendor.md file you wish to award.
 
 ## Who started this project?
